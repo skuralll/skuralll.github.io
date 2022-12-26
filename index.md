@@ -23,6 +23,7 @@
 * 普通自動車第一種運転免許（AT限定）
 
 # SNS/連絡先
+* Mail: [skuralll.com@gmail.com](<mailto:skuralll.com@gmail.com>)
 * Twitter: [https://twitter.com/skuralll_](https://twitter.com/skuralll_)
 * Twitter(ゲーム開発系): [https://twitter.com/kuranosuke_id](https://twitter.com/kuranosuke_id)
 * Discord: すくら#1563
