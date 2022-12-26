@@ -29,3 +29,6 @@
 * Discord: すくら#1563
 * GitHub: [https://github.com/skuralll](https://github.com/skuralll)
 * Steam: [https://steamcommunity.com/profiles/76561198424303465/](https://steamcommunity.com/profiles/76561198424303465/)
+
+# その他
+* Scrapbox: [https://scrapbox.io/skuralllreport/](https://scrapbox.io/skuralllreport/)
