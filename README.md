@@ -1,2 +1,4 @@
 # skuralll.github.io
-[こちら](https://skuralll.github.io/)から閲覧できます
+個人サイト用リポジトリ  
+  
+[https://skuralll.github.io/](https://skuralll.github.io/)から閲覧できます
