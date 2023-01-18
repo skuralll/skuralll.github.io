@@ -30,3 +30,4 @@
 
 # その他
 * Scrapbox: [https://scrapbox.io/skuralllreport/](https://scrapbox.io/skuralllreport/)
+* はてなブログ: [https://skuralll.hateblo.jp/](https://skuralll.hateblo.jp/) 
