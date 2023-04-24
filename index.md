@@ -20,11 +20,12 @@
 
 -   [FavorabilityResearcher](https://github.com/skuralll/FavorabilityResearcher): Twitter フォロワーのいいね数を調べる
 -   [LifeGame](https://github.com/skuralll/LifeGame): GUI で動くライフゲーム
--   [skuralll.com](https://github.com/skuralll/skuralll.github.io): 個人ホームページ
 -   [ligegame_rust](https://github.com/skuralll/lifegame_rust): CUI で動くライフゲーム
+-   [skuralll.com](https://github.com/skuralll/skuralll.github.io): 個人ホームページ
 -   [single-board](https://github.com/skuralll/single-board): 掲示板
 -   [SwitchBot-tray](https://github.com/skuralll/switchbot-tray): SwitchBot をタスクトレイから操作
 -   [FlightPads](https://github.com/skuralll/FlightPads): MinecraftServerにエリトラ飛行用のジャンプパッドを作成
+-   [DeposiVault](https://github.com/skuralll/DepositVault): MinecraftServerでゲーム内通貨を払ってチェストを保護
 -   [BalloonMaster(Play Store)](https://play.google.com/store/apps/details?id=com.skuralll.Balloon2): Android 向け 2D アクションゲーム
 
 # 現況
